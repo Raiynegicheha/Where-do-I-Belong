@@ -10,3 +10,4 @@ Likewise, getIndexToIns([20,3,5], 19) should return 2 because once the array has
 There are various ways to solve this challenge.
 Using the sort method as illustrated in the sort.js file.
 Using the filter method illustrated in the filter.js file.
+Using the .findIndex() method.
